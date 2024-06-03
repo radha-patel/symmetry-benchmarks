@@ -1,601 +1,601 @@
 [
     {
-        "time": 0.004759781,
+        "time": 0.004755088,
         "method": "ssymv_mkl",
         "matrix": "Boeing/ct20stif"
     },
     {
-        "time": 0.0026485560000000003,
+        "time": 0.0025901970000000002,
         "method": "ssymv_taco",
         "matrix": "Boeing/ct20stif"
     },
     {
-        "time": 0.003722374,
+        "time": 0.003895484,
         "method": "ssymv_finch_ref",
         "matrix": "Boeing/ct20stif"
     },
     {
-        "time": 0.001892297,
+        "time": 0.001817639,
         "method": "ssymv_finch_opt",
         "matrix": "Boeing/ct20stif"
     },
     {
-        "time": 0.001304168,
+        "time": 0.001308617,
         "method": "ssymv_mkl",
         "matrix": "Simon/olafu"
     },
     {
-        "time": 0.000843697,
+        "time": 0.0008430330000000001,
         "method": "ssymv_taco",
         "matrix": "Simon/olafu"
     },
     {
-        "time": 0.000926293,
+        "time": 0.000902484,
         "method": "ssymv_finch_ref",
         "matrix": "Simon/olafu"
     },
     {
-        "time": 0.000649688,
+        "time": 0.000650301,
         "method": "ssymv_finch_opt",
         "matrix": "Simon/olafu"
     },
     {
-        "time": 0.00207042,
+        "time": 0.002047993,
         "method": "ssymv_mkl",
         "matrix": "Boeing/bcsstk35"
     },
     {
-        "time": 0.0012416850000000002,
+        "time": 0.001240392,
         "method": "ssymv_taco",
         "matrix": "Boeing/bcsstk35"
     },
     {
-        "time": 0.001442332,
+        "time": 0.001391603,
         "method": "ssymv_finch_ref",
         "matrix": "Boeing/bcsstk35"
     },
     {
-        "time": 0.000934576,
+        "time": 0.000967883,
         "method": "ssymv_finch_opt",
         "matrix": "Boeing/bcsstk35"
     },
     {
-        "time": 0.001241509,
+        "time": 0.001249803,
         "method": "ssymv_mkl",
         "matrix": "Boeing/crystk02"
     },
     {
-        "time": 0.0007989430000000001,
+        "time": 0.000798526,
         "method": "ssymv_taco",
         "matrix": "Boeing/crystk02"
     },
     {
-        "time": 0.000848283,
+        "time": 0.000875952,
         "method": "ssymv_finch_ref",
         "matrix": "Boeing/crystk02"
     },
     {
-        "time": 0.000594822,
+        "time": 0.000595214,
         "method": "ssymv_finch_opt",
         "matrix": "Boeing/crystk02"
     },
     {
-        "time": 0.002360876,
+        "time": 0.00241996,
         "method": "ssymv_mkl",
         "matrix": "Boeing/crystk03"
     },
     {
-        "time": 0.0014860790000000002,
+        "time": 0.001481146,
         "method": "ssymv_taco",
         "matrix": "Boeing/crystk03"
     },
     {
-        "time": 0.001857582,
+        "time": 0.001744599,
         "method": "ssymv_finch_ref",
         "matrix": "Boeing/crystk03"
     },
     {
-        "time": 0.001079857,
+        "time": 0.001075747,
         "method": "ssymv_finch_opt",
         "matrix": "Boeing/crystk03"
     },
     {
-        "time": 0.004624417,
+        "time": 0.004578195,
         "method": "ssymv_mkl",
         "matrix": "Nasa/nasasrb"
     },
     {
-        "time": 0.002747965,
+        "time": 0.0027105130000000003,
         "method": "ssymv_taco",
         "matrix": "Nasa/nasasrb"
     },
     {
-        "time": 0.003975356,
+        "time": 0.003721364,
         "method": "ssymv_finch_ref",
         "matrix": "Nasa/nasasrb"
     },
     {
-        "time": 0.001705977,
+        "time": 0.001755867,
         "method": "ssymv_finch_opt",
         "matrix": "Nasa/nasasrb"
     },
     {
-        "time": 0.001750503,
+        "time": 0.00175265,
         "method": "ssymv_mkl",
         "matrix": "Simon/raefsky4"
     },
     {
-        "time": 0.0010884500000000001,
+        "time": 0.00111212,
         "method": "ssymv_taco",
         "matrix": "Simon/raefsky4"
     },
     {
-        "time": 0.001209879,
+        "time": 0.001209782,
         "method": "ssymv_finch_ref",
         "matrix": "Simon/raefsky4"
     },
     {
-        "time": 0.000840949,
+        "time": 0.000843865,
         "method": "ssymv_finch_opt",
         "matrix": "Simon/raefsky4"
     },
     {
-        "time": 0.000746788,
+        "time": 0.000748937,
         "method": "ssymv_mkl",
         "matrix": "Mulvey/finan512"
     },
     {
-        "time": 0.000642855,
+        "time": 0.000643675,
         "method": "ssymv_taco",
         "matrix": "Mulvey/finan512"
     },
     {
-        "time": 0.000659774,
+        "time": 0.000659381,
         "method": "ssymv_finch_ref",
         "matrix": "Mulvey/finan512"
     },
     {
-        "time": 0.000509339,
+        "time": 0.00051475,
         "method": "ssymv_finch_opt",
         "matrix": "Mulvey/finan512"
     },
     {
-        "time": 0.000487758,
+        "time": 0.000489339,
         "method": "ssymv_mkl",
         "matrix": "Cote/vibrobox"
     },
     {
-        "time": 0.000318187,
+        "time": 0.00031758700000000003,
         "method": "ssymv_taco",
         "matrix": "Cote/vibrobox"
     },
     {
-        "time": 0.000323358,
+        "time": 0.000321771,
         "method": "ssymv_finch_ref",
         "matrix": "Cote/vibrobox"
     },
     {
-        "time": 0.00023565,
+        "time": 0.000238074,
         "method": "ssymv_finch_opt",
         "matrix": "Cote/vibrobox"
     },
     {
-        "time": 3.1502e-5,
+        "time": 3.1608e-5,
         "method": "ssymv_mkl",
         "matrix": "HB/saylr4"
     },
     {
-        "time": 4.6709e-5,
+        "time": 4.6005000000000004e-5,
         "method": "ssymv_taco",
         "matrix": "HB/saylr4"
     },
     {
-        "time": 3.4075e-5,
+        "time": 3.3307e-5,
         "method": "ssymv_finch_ref",
         "matrix": "HB/saylr4"
     },
     {
-        "time": 2.2465e-5,
+        "time": 2.2183e-5,
         "method": "ssymv_finch_opt",
         "matrix": "HB/saylr4"
     },
     {
-        "time": 0.001927614,
+        "time": 0.001922601,
         "method": "ssymv_mkl",
         "matrix": "Simon/raefsky3"
     },
     {
-        "time": 0.0012121200000000001,
+        "time": 0.001211419,
         "method": "ssymv_taco",
         "matrix": "Simon/raefsky3"
     },
     {
-        "time": 0.00142511,
+        "time": 0.001427692,
         "method": "ssymv_finch_ref",
         "matrix": "Simon/raefsky3"
     },
     {
-        "time": 0.000902565,
+        "time": 0.000906977,
         "method": "ssymv_finch_opt",
         "matrix": "Simon/raefsky3"
     },
     {
-        "time": 0.002386378,
+        "time": 0.002357445,
         "method": "ssymv_mkl",
         "matrix": "Simon/venkat01"
     },
     {
-        "time": 0.0015098350000000002,
+        "time": 0.001481848,
         "method": "ssymv_taco",
         "matrix": "Simon/venkat01"
     },
     {
-        "time": 0.001773104,
+        "time": 0.001774692,
         "method": "ssymv_finch_ref",
         "matrix": "Simon/venkat01"
     },
     {
-        "time": 0.001056309,
+        "time": 0.001061289,
         "method": "ssymv_finch_opt",
         "matrix": "Simon/venkat01"
     },
     {
-        "time": 0.001442406,
+        "time": 0.001451264,
         "method": "ssymv_mkl",
         "matrix": "FIDAP/ex11"
     },
     {
-        "time": 0.000913858,
+        "time": 0.0009138950000000001,
         "method": "ssymv_taco",
         "matrix": "FIDAP/ex11"
     },
     {
-        "time": 0.00101453,
+        "time": 0.001005921,
         "method": "ssymv_finch_ref",
         "matrix": "FIDAP/ex11"
     },
     {
-        "time": 0.000704371,
+        "time": 0.000705503,
         "method": "ssymv_finch_opt",
         "matrix": "FIDAP/ex11"
     },
     {
-        "time": 0.000242212,
+        "time": 0.000241707,
         "method": "ssymv_mkl",
         "matrix": "Zitney/rdist1"
     },
     {
-        "time": 0.000178285,
+        "time": 0.000178192,
         "method": "ssymv_taco",
         "matrix": "Zitney/rdist1"
     },
     {
-        "time": 0.000165064,
+        "time": 0.00016606,
         "method": "ssymv_finch_ref",
         "matrix": "Zitney/rdist1"
     },
     {
-        "time": 0.000113632,
+        "time": 0.000113725,
         "method": "ssymv_finch_opt",
         "matrix": "Zitney/rdist1"
     },
     {
-        "time": 0.000218621,
+        "time": 0.000221375,
         "method": "ssymv_mkl",
         "matrix": "HB/orani678"
     },
     {
-        "time": 0.00015817200000000002,
+        "time": 0.00015896600000000002,
         "method": "ssymv_taco",
         "matrix": "HB/orani678"
     },
     {
-        "time": 0.000162383,
+        "time": 0.000161448,
         "method": "ssymv_finch_ref",
         "matrix": "HB/orani678"
     },
     {
-        "time": 0.000126268,
+        "time": 0.000126425,
         "method": "ssymv_finch_opt",
         "matrix": "HB/orani678"
     },
     {
-        "time": 0.001744808,
+        "time": 0.001751724,
         "method": "ssymv_mkl",
         "matrix": "Goodwin/rim"
     },
     {
-        "time": 0.0010921280000000002,
+        "time": 0.0010906590000000001,
         "method": "ssymv_taco",
         "matrix": "Goodwin/rim"
     },
     {
-        "time": 0.001231934,
+        "time": 0.001236496,
         "method": "ssymv_finch_ref",
         "matrix": "Goodwin/rim"
     },
     {
-        "time": 0.000842675,
+        "time": 0.000839591,
         "method": "ssymv_finch_opt",
         "matrix": "Goodwin/rim"
     },
     {
-        "time": 0.00014932,
+        "time": 0.000149791,
         "method": "ssymv_mkl",
         "matrix": "Hamm/memplus"
     },
     {
-        "time": 0.000144718,
+        "time": 0.00014535900000000002,
         "method": "ssymv_taco",
         "matrix": "Hamm/memplus"
     },
     {
-        "time": 0.000139753,
+        "time": 0.000140344,
         "method": "ssymv_finch_ref",
         "matrix": "Hamm/memplus"
     },
     {
-        "time": 0.000108504,
+        "time": 0.000107739,
         "method": "ssymv_finch_opt",
         "matrix": "Hamm/memplus"
     },
     {
-        "time": 0.000138862,
+        "time": 0.00013808,
         "method": "ssymv_mkl",
         "matrix": "HB/gemat11"
     },
     {
-        "time": 9.9937e-5,
+        "time": 0.00010029,
         "method": "ssymv_taco",
         "matrix": "HB/gemat11"
     },
     {
-        "time": 9.2584e-5,
+        "time": 9.2611e-5,
         "method": "ssymv_finch_ref",
         "matrix": "HB/gemat11"
     },
     {
-        "time": 6.9666e-5,
+        "time": 6.9809e-5,
         "method": "ssymv_finch_opt",
         "matrix": "HB/gemat11"
     },
     {
-        "time": 0.000632717,
+        "time": 0.00061005,
         "method": "ssymv_mkl",
         "matrix": "Mallya/lhr10"
     },
     {
-        "time": 0.00041007200000000004,
+        "time": 0.000410446,
         "method": "ssymv_taco",
         "matrix": "Mallya/lhr10"
     },
     {
-        "time": 0.000450035,
+        "time": 0.000443593,
         "method": "ssymv_finch_ref",
         "matrix": "Mallya/lhr10"
     },
     {
-        "time": 0.000328169,
+        "time": 0.000329302,
         "method": "ssymv_finch_opt",
         "matrix": "Mallya/lhr10"
     },
     {
-        "time": 0.000531351,
+        "time": 0.000531761,
         "method": "ssymv_mkl",
         "matrix": "Goodwin/goodwin"
     },
     {
-        "time": 0.000356862,
+        "time": 0.00035637,
         "method": "ssymv_taco",
         "matrix": "Goodwin/goodwin"
     },
     {
-        "time": 0.000371854,
+        "time": 0.000391814,
         "method": "ssymv_finch_ref",
         "matrix": "Goodwin/goodwin"
     },
     {
-        "time": 0.000255232,
+        "time": 0.000256266,
         "method": "ssymv_finch_opt",
         "matrix": "Goodwin/goodwin"
     },
     {
-        "time": 0.000221192,
+        "time": 0.000221089,
         "method": "ssymv_mkl",
         "matrix": "Grund/bayer02"
     },
     {
-        "time": 0.000180836,
+        "time": 0.000180891,
         "method": "ssymv_taco",
         "matrix": "Grund/bayer02"
     },
     {
-        "time": 0.0001741,
+        "time": 0.000173019,
         "method": "ssymv_finch_ref",
         "matrix": "Grund/bayer02"
     },
     {
-        "time": 0.000125654,
+        "time": 0.000128258,
         "method": "ssymv_finch_opt",
         "matrix": "Grund/bayer02"
     },
     {
-        "time": 0.000245613,
+        "time": 0.000245646,
         "method": "ssymv_mkl",
         "matrix": "Grund/bayer10"
     },
     {
-        "time": 0.000193512,
+        "time": 0.000193999,
         "method": "ssymv_taco",
         "matrix": "Grund/bayer10"
     },
     {
-        "time": 0.000199701,
+        "time": 0.000198371,
         "method": "ssymv_finch_ref",
         "matrix": "Grund/bayer10"
     },
     {
-        "time": 0.000139215,
+        "time": 0.000139953,
         "method": "ssymv_finch_opt",
         "matrix": "Grund/bayer10"
     },
     {
-        "time": 0.000479167,
+        "time": 0.000480538,
         "method": "ssymv_mkl",
         "matrix": "Brethour/coater2"
     },
     {
-        "time": 0.000290565,
+        "time": 0.000287762,
         "method": "ssymv_taco",
         "matrix": "Brethour/coater2"
     },
     {
-        "time": 0.00031757,
+        "time": 0.000317431,
         "method": "ssymv_finch_ref",
         "matrix": "Brethour/coater2"
     },
     {
-        "time": 0.000229163,
+        "time": 0.000231208,
         "method": "ssymv_finch_opt",
         "matrix": "Brethour/coater2"
     },
     {
-        "time": 0.000762569,
+        "time": 0.000762557,
         "method": "ssymv_mkl",
         "matrix": "ATandT/onetone2"
     },
     {
-        "time": 0.000517945,
+        "time": 0.000517642,
         "method": "ssymv_taco",
         "matrix": "ATandT/onetone2"
     },
     {
-        "time": 0.000462091,
+        "time": 0.000463148,
         "method": "ssymv_finch_ref",
         "matrix": "ATandT/onetone2"
     },
     {
-        "time": 0.000318613,
+        "time": 0.000319997,
         "method": "ssymv_finch_opt",
         "matrix": "ATandT/onetone2"
     },
     {
-        "time": 0.00021835,
+        "time": 0.000218856,
         "method": "ssymv_mkl",
         "matrix": "Wang/wang4"
     },
     {
-        "time": 0.000200509,
+        "time": 0.00020086800000000002,
         "method": "ssymv_taco",
         "matrix": "Wang/wang4"
     },
     {
-        "time": 0.000190475,
+        "time": 0.000191196,
         "method": "ssymv_finch_ref",
         "matrix": "Wang/wang4"
     },
     {
-        "time": 0.000160248,
+        "time": 0.000160597,
         "method": "ssymv_finch_opt",
         "matrix": "Wang/wang4"
     },
     {
-        "time": 3.2724e-5,
+        "time": 3.2605e-5,
         "method": "ssymv_mkl",
         "matrix": "HB/lnsp3937"
     },
     {
-        "time": 4.7433000000000005e-5,
+        "time": 4.7470000000000005e-5,
         "method": "ssymv_taco",
         "matrix": "HB/lnsp3937"
     },
     {
-        "time": 3.0059e-5,
+        "time": 2.9015e-5,
         "method": "ssymv_finch_ref",
         "matrix": "HB/lnsp3937"
     },
     {
-        "time": 2.3889e-5,
+        "time": 2.3984e-5,
         "method": "ssymv_finch_opt",
         "matrix": "HB/lnsp3937"
     },
     {
-        "time": 3.6888e-5,
+        "time": 3.5742e-5,
         "method": "ssymv_mkl",
         "matrix": "HB/sherman5"
     },
     {
-        "time": 4.771e-5,
+        "time": 4.7350000000000006e-5,
         "method": "ssymv_taco",
         "matrix": "HB/sherman5"
     },
     {
-        "time": 2.756e-5,
+        "time": 2.7775e-5,
         "method": "ssymv_finch_ref",
         "matrix": "HB/sherman5"
     },
     {
-        "time": 2.1215e-5,
+        "time": 2.1715e-5,
         "method": "ssymv_finch_opt",
         "matrix": "HB/sherman5"
     },
     {
-        "time": 3.5007e-5,
+        "time": 3.85e-5,
         "method": "ssymv_mkl",
         "matrix": "HB/sherman3"
     },
     {
-        "time": 4.7489000000000006e-5,
+        "time": 4.7203e-5,
         "method": "ssymv_taco",
         "matrix": "HB/sherman3"
     },
     {
-        "time": 2.8234e-5,
+        "time": 2.8455e-5,
         "method": "ssymv_finch_ref",
         "matrix": "HB/sherman3"
     },
     {
-        "time": 2.2901e-5,
+        "time": 2.3585e-5,
         "method": "ssymv_finch_opt",
         "matrix": "HB/sherman3"
     },
     {
-        "time": 0.00049308,
+        "time": 0.000493919,
         "method": "ssymv_mkl",
         "matrix": "Shyy/shyy161"
     },
     {
-        "time": 0.000433989,
+        "time": 0.00043476400000000003,
         "method": "ssymv_taco",
         "matrix": "Shyy/shyy161"
     },
     {
-        "time": 0.00046466,
+        "time": 0.000467186,
         "method": "ssymv_finch_ref",
         "matrix": "Shyy/shyy161"
     },
     {
-        "time": 0.000413271,
+        "time": 0.000413641,
         "method": "ssymv_finch_opt",
         "matrix": "Shyy/shyy161"
     },
     {
-        "time": 0.000218193,
+        "time": 0.00021824,
         "method": "ssymv_mkl",
         "matrix": "Wang/wang3"
     },
     {
-        "time": 0.00020076000000000002,
+        "time": 0.000201434,
         "method": "ssymv_taco",
         "matrix": "Wang/wang3"
     },
     {
-        "time": 0.000196261,
+        "time": 0.000190662,
         "method": "ssymv_finch_ref",
         "matrix": "Wang/wang3"
     },
     {
-        "time": 0.000160782,
+        "time": 0.000160135,
         "method": "ssymv_finch_opt",
         "matrix": "Wang/wang3"
     }

@@ -19,7 +19,7 @@ int main(int argc, char **argv)
     Tensor<double> B_T = read(fs::path(params.input) / "B_T.ttx", Format({Dense, Dense}, {1, 0}), true);
     int n = A.getDimension(0);
     int r = B_T.getDimension(0);
-    Tensor<double> C_T("C_T", {r, n}, Format({Dense, Dense}));
+    Tensor<double> C_T("C_T", {r, n}, Format({Dense, Dense}, {1, 0}));
 
     IndexVar i, j, k, l, m;
 

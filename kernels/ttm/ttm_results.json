@@ -1,6 +1,6 @@
 [
     {
-        "time": 0.466338803,
+        "time": 0.22794898600000002,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_taco",
@@ -9,7 +9,7 @@
         "rank": 10
     },
     {
-        "time": 0.137644263,
+        "time": 0.13493107,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_finch_ref",
@@ -18,7 +18,7 @@
         "rank": 10
     },
     {
-        "time": 0.082166139,
+        "time": 0.064350359,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_finch_opt",
@@ -27,7 +27,7 @@
         "rank": 10
     },
     {
-        "time": 0.048203354000000004,
+        "time": 0.045690522000000004,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_taco",
@@ -36,7 +36,7 @@
         "rank": 10
     },
     {
-        "time": 0.018201662,
+        "time": 0.018238783,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_finch_ref",
@@ -45,7 +45,7 @@
         "rank": 10
     },
     {
-        "time": 0.013784679,
+        "time": 0.01141196,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_finch_opt",
@@ -54,7 +54,7 @@
         "rank": 10
     },
     {
-        "time": 0.008741378000000001,
+        "time": 0.008379334,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_taco",
@@ -63,7 +63,7 @@
         "rank": 10
     },
     {
-        "time": 0.003550443,
+        "time": 0.003226118,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_finch_ref",
@@ -72,7 +72,7 @@
         "rank": 10
     },
     {
-        "time": 0.002846923,
+        "time": 0.002408042,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_finch_opt",
@@ -81,7 +81,7 @@
         "rank": 10
     },
     {
-        "time": 0.0031871380000000004,
+        "time": 0.002913882,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_taco",
@@ -90,7 +90,7 @@
         "rank": 10
     },
     {
-        "time": 0.001384932,
+        "time": 0.001334729,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_finch_ref",
@@ -99,7 +99,7 @@
         "rank": 10
     },
     {
-        "time": 0.001303896,
+        "time": 0.001195599,
         "nondiag_time": null,
         "diag_time": null,
         "method": "ttm_finch_opt",
