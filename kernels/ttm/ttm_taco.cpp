@@ -20,7 +20,7 @@ int main(int argc, char **argv)
     int n = A.getDimension(0);
     int r = B_T.getDimension(0);
 
-    Tensor<double> C("C", {r, n, n}, Format({Dense, Dense, Dense}));
+    Tensor<double> C("C", {r, n, n}, Format({Dense, Dense, Dense}, {2, 1, 0}));
 
     IndexVar i, j, k, l;
 
