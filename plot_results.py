@@ -106,6 +106,16 @@ if os.path.exists("ssymv_results.json"):
                     ["SySTeC", "TACO"],#, "MKL"],
                     expected_speedup = 1, width=16)
 
+if os.path.exists("bellman_results.json"):
+    all_formats_chart("bellman_results.json", use_suitesparse_name, "bellman_finch_ref", "bellman_finch_opt",
+                    ["bellman_finch_opt", "bellman_taco"],#, "bellman_mkl"],  
+                    {"bellman_finch_opt": "tab:blue", "bellman_taco": "tab:orange"}, #, "bellman_mkl": "tab:green"},
+                    "Bellman-Ford Step Performance",
+                    "Speedup",
+                    "Matrix Name",
+                    ["SySTeC", "TACO"],#, "MKL"],
+                    expected_speedup = 1, width=16)
+
 if os.path.exists("kernels/ssyrk/ssyrk_results.json"):
     all_formats_chart("kernels/ssyrk/ssyrk_results.json", use_suitesparse_name, "ssyrk_ref", "ssyrk_opt",
                     ["ssyrk_opt"],  
